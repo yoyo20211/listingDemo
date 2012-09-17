@@ -1,0 +1,128 @@
+{"level":"info","message":" (Posting module) Add process id 1896157431 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 1896157431 to the posting system"}
+{"level":"info","message":" (Posting module) posting process id 1896157431 can not to be published :\nnull"}
+{"level":"info","message":" (Posting module) Add process id 398791558 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 398791558 to the posting system"}
+{"level":"info","message":" (Posting module) posting id 398791558 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) save form process id 398791558 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 398791558 to database"}
+{"level":"error","message":" (Posting module) cannot save a posting data id 398791558 to database : \n MongoError: point not in interval of [ -180, 180 )"}
+{"level":"info","message":" (Posting module) sent message id field_398791558 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 398791558 can not to be published :\nnull"}
+{"level":"info","message":" (Posting module) Add process id 3693153013 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 3693153013 to the posting system"}
+{"level":"error","message":" (Posting module) cannot save a posting data id 3693153013 to database : \n MongoError: point not in interval of [ -180, 180 )"}
+{"level":"info","message":" (Posting module) sent message id field_3693153013 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 3693153013 can not to be published :\nnull"}
+{"level":"info","message":" (Posting module) Add process id 306826682 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 306826682 to the posting system"}
+{"level":"info","message":" (Posting module) posting id 306826682 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) save form process id 306826682 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 306826682 to database"}
+{"level":"info","message":" (Posting module) save a posting data id 306826682 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_306826682 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 306826682 is published"}
+{"level":"info","message":"sign up user success yoyo20211@gmail.com"}
+{"level":"info","message":" (Posting module) Add process id 99471619 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 99471619 to the posting system"}
+{"level":"info","message":" (Posting module) posting id 99471619 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) save form process id 99471619 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 99471619 to database"}
+{"level":"error","message":" (Posting module) cannot save a posting data id 99471619 to database : \n CastError: Cast to number failed for value \",\""}
+{"level":"info","message":" (Posting module) sent message id field_99471619 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 99471619 can not to be published :\nnull"}
+{"level":"info","message":" (Posting module) Add process id 135294430 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 135294430 to the posting system"}
+{"level":"info","message":" (Posting module) posting id 135294430 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) save form process id 135294430 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 135294430 to database"}
+{"level":"error","message":" (Posting module) cannot save a posting data id 135294430 to database : \n CastError: Cast to number failed for value \",\""}
+{"level":"info","message":" (Posting module) sent message id field_135294430 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 135294430 can not to be published :\nnull"}
+{"level":"info","message":" (Posting module) Add process id 758237543 to Posting system"}
+{"level":"info","message":" (Posting module) add checking process id 758237543 to the posting system"}
+{"level":"info","message":" (Posting module) posting id 758237543 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) save form process id 758237543 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 758237543 to database"}
+{"level":"info","message":" (Posting module) save a posting data id 758237543 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_758237543 to the checking system"}
+{"level":"info","message":" (Posting module) posting process id 758237543 is published"}
+{"level":"info","message":" (Posting module) Add process id 1542552907 to Posting system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_1542552907 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 1542552907 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_1542552907 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_1542552907 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_1542552907 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 1542552907 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 1542552907 is success"}
+{"level":"info","message":" (Posting module) posting process id 1542552907 is published"}
+{"level":"info","message":" (Posting module) Add process id 2297789015 to Posting system"}
+{"level":"info","message":" (Posting module) start insert posting data id 2297789015 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_2297789015 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 2297789015 to database successfully"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_2297789015 to the photo uploading system"}
+{"level":"info","message":" (Posting module) sent message id field_2297789015 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_2297789015 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_2297789015 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 2297789015 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 2297789015 is success"}
+{"level":"info","message":" (Posting module) posting process id 2297789015 is published"}
+{"level":"info","message":" (Posting module) Add process id 573331563 to Posting system"}
+{"level":"info","message":" (Posting module) start insert posting data id 573331563 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_573331563 to the photo uploading system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_573331563 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 573331563 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_573331563 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_573331563 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_573331563 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 573331563 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 573331563 is success"}
+{"level":"info","message":" (Posting module) posting process id 573331563 is published"}
+{"level":"info","message":" (Posting module) Add process id 3883517086 to Posting system"}
+{"level":"info","message":" (Posting module) start insert posting data id 3883517086 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_3883517086 to the photo uploading system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_3883517086 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 3883517086 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_3883517086 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_3883517086 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_3883517086 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 3883517086 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 3883517086 is success"}
+{"level":"info","message":" (Posting module) posting process id 3883517086 is published"}
+{"level":"info","message":" (Posting module) Add process id 391449120 to Posting system"}
+{"level":"info","message":" (Posting module) start insert posting data id 391449120 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_391449120 to the photo uploading system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_391449120 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 391449120 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_391449120 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_391449120 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_391449120 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 391449120 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 391449120 is success"}
+{"level":"info","message":" (Posting module) posting process id 391449120 is published"}
+{"level":"info","message":" (Posting module) Add process id 410428863 to Posting system"}
+{"level":"info","message":" (Posting module) start insert posting data id 410428863 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_410428863 to the photo uploading system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_410428863 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 410428863 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_410428863 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_410428863 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_410428863 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 410428863 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 410428863 is success"}
+{"level":"info","message":" (Posting module) posting process id 410428863 is published"}
+{"level":"info","message":" (Posting module) Add process id 515476186 to Posting system"}
+{"level":"info","message":" (Posting module) posting id 515476186 is success! and start uploading files"}
+{"level":"info","message":" (Posting module) a temporary photo of process id photo_0_515476186 is public\\data\\2cf0428d2e22f878dd16d38fa28e4de0"}
+{"level":"info","message":" (Posting module) a temporary photo of process id photo_1_515476186 is public\\data\\375c3392c36c65931c44f0f83913b4f2"}
+{"level":"info","message":" (Posting module) save form process id 515476186 to database"}
+{"level":"info","message":" (Posting module) start insert posting data id 515476186 to database"}
+{"level":"info","message":" (Posting module) add photo process id photo_0_515476186 to the photo uploading system"}
+{"level":"info","message":" (Posting module) add photo process id photo_1_515476186 to the photo uploading system"}
+{"level":"info","message":" (Posting module) save a posting data id 515476186 to database successfully"}
+{"level":"info","message":" (Posting module) sent message id field_515476186 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_0_515476186 to the checking system"}
+{"level":"info","message":" (Posting module) sent message id photo_1_515476186 to the checking system"}
+{"level":"info","message":" (Posting module) photo0 process id 515476186 is success"}
+{"level":"info","message":" (Posting module) photo1 process id 515476186 is success"}
+{"level":"info","message":" (Posting module) posting process id 515476186 is published"}
