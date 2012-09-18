@@ -17,14 +17,14 @@ sslKey                  = fs.readFileSync('key/key.pem').toString()
 sslCertificate          = fs.readFileSync('key/certificate.pem').toString()
 
 exports.common          =
-  mainURL               : 'http://localhost:7575'
-  registrationURL       : 'http://localhost:8888'
+  mainURL               : 'http://localhost:1337'
+  registrationURL       : 'http://localhost:1337'
   socketIOURL           : 'http://localhost:8080'
   socketIOMainChannel   : 'mainchannel'
   mainEmailAccount      : 'service@melisting.com'
   serverDBURL           : 'mongodb://localhost/db'
   registerDBURL         : 'mongodb://localhost/db'
-  mainPort              : 7575
+  mainPort              : 1337
   socketIOPort          : 8080
   cookieMaxAge          : oneYear
   publicDir             : 'public'
